@@ -20,7 +20,7 @@ $title = $block->text();
 ?>
 
 <?php if ($title->isNotEmpty()): ?>
-    <div class="container mx-auto">
+    <div class="container mx-auto mt-28 text-center">
         <<?= $level ?>
             class="max-w-6xl mx-auto px-4 mb-6 <?= $sizeClasses[$level] ?? $sizeClasses['h2'] ?>">
             <?= esc($title) ?>
