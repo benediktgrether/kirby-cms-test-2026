@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="description" content="<?= $site->description() ?>">
   <?= css('assets/css/styles.css') ?>
-  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <script type="module" src="/assets/js/alpine.js"></script>
   <title>
     <?= $page->title() ?> | <?= $site->title() ?>
   </title>
