@@ -1,0 +1,16 @@
+name: Hero
+icon: image
+
+fields:
+  headline:
+    type: text
+    required: true
+
+  subheadline:
+    type: text
+
+  background:
+    type: files
+    max: 1
+    uploads:
+      template: image
