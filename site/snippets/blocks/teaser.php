@@ -22,7 +22,7 @@ $bg = $block->background()->toFile();
             </p>
         <?php endif ?>
         <div>
-            <?= esc($block->paragraph()->kirbytext()) ?>
+            <?= kirbytext($block->paragraph()) ?>
         </div>
     </div>
 </section>
