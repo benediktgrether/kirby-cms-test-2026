@@ -1,0 +1,41 @@
+Title: Project
+
+----
+
+Headline: Project 01
+
+----
+
+Client: Client 01
+
+----
+
+Year: 2025
+
+----
+
+Category: web
+
+----
+
+Cover: 
+
+----
+
+Intro: <p>Hier steht was</p>
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Heading left"},"id":"3a4d51f6-6648-42c7-8d47-d2056a668a38","isHidden":false,"type":"heading"}],"id":"e55f6b7b-6052-4dc5-af25-c51da8b8fa36","width":"1/2"},{"blocks":[{"content":{"text":"<p>Lorem Ipsum Text</p>"},"id":"e26a0b41-899a-4010-9648-a2c78a3ac945","isHidden":false,"type":"text"}],"id":"aa4640ab-4432-4a0e-9600-a9a09d52c248","width":"1/2"}],"id":"330ab564-76b9-4c3a-b519-7a662dc37b8c"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: w5vqb57k3oppahcf

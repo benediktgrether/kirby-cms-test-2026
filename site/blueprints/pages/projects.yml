@@ -1,0 +1,75 @@
+title: Project
+icon: 🚀
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+  content:
+    label: Content
+    icon: text
+
+    columns:
+      - width: 2/3
+        fields:
+          headline:
+            type: text
+            required: true
+
+          client:
+            type: text
+
+          year:
+            type: number
+            min: 2000
+            max: 2100
+            step: 1
+
+          category:
+            type: select
+            options:
+              branding: Branding
+              web: Web
+              ecommerce: E-Commerce
+              marketing: Marketing
+
+          cover:
+            type: files
+            max: 1
+            layout: cards
+            uploads:
+              template: image
+
+          intro:
+            type: writer
+            label: Introduction
+
+          layout:
+            type: layout
+            layouts:
+              - "1/1"
+              - "1/2, 1/2"
+              - "2/3, 1/3"
+            fieldsets:
+              - heading
+              - text
+              - image
+              teaser: blocks/teaser
+              gallery: blocks/gallery
+
+      - width: 1/3
+        sections:
+          files:
+            type: files
+
+  seo:
+    label: SEO
+    icon: search
+    fields:
+      metaTitle:
+        type: text
+        width: 1/2
+      metaDescription:
+        type: textarea
+        width: 1/2
