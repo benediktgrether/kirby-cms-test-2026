@@ -1,5 +1,5 @@
-name: Hero
-icon: image
+name: Teaser
+icon: lab
 preview: fields
 wysiwyg: true
 
@@ -11,8 +11,13 @@ fields:
   subheadline:
     type: text
 
+  paragraph:
+    type: textarea
+    size: medium
+
   background:
     type: files
     max: 1
+    layout: cards
     uploads:
       template: image
