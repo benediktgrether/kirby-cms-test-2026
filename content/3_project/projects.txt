@@ -26,7 +26,7 @@ Intro: <p>Hier steht was</p>
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Heading left"},"id":"3a4d51f6-6648-42c7-8d47-d2056a668a38","isHidden":false,"type":"heading"}],"id":"e55f6b7b-6052-4dc5-af25-c51da8b8fa36","width":"1/2"},{"blocks":[{"content":{"text":"<p>Lorem Ipsum Text</p>"},"id":"e26a0b41-899a-4010-9648-a2c78a3ac945","isHidden":false,"type":"text"}],"id":"aa4640ab-4432-4a0e-9600-a9a09d52c248","width":"1/2"}],"id":"330ab564-76b9-4c3a-b519-7a662dc37b8c"}]
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Heading left"},"id":"3a4d51f6-6648-42c7-8d47-d2056a668a38","isHidden":false,"type":"heading"}],"id":"e55f6b7b-6052-4dc5-af25-c51da8b8fa36","width":"1/2"},{"blocks":[{"content":{"text":"<p>Lorem Ipsum Text</p>"},"id":"e26a0b41-899a-4010-9648-a2c78a3ac945","isHidden":false,"type":"text"}],"id":"aa4640ab-4432-4a0e-9600-a9a09d52c248","width":"1/2"}],"id":"330ab564-76b9-4c3a-b519-7a662dc37b8c"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Heading 2/3"},"id":"29de06ca-6d02-4d5b-abb8-872c4241df80","isHidden":false,"type":"heading"}],"id":"532ba488-a5b7-4cda-b285-59bbc2f9ae53","width":"2/3"},{"blocks":[{"content":{"text":"<p>Text 1/3</p>"},"id":"bd873cbf-42fa-4210-89a3-6b9fe1f9d0ba","isHidden":false,"type":"text"}],"id":"b86097ae-23a3-4605-a101-fc927d2cf20f","width":"1/3"}],"id":"f701f1d9-dc4a-458e-b2d8-8be1dc6289e2"}]
 
 ----
 
