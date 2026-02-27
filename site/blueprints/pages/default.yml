@@ -32,7 +32,6 @@ columns:
                 fieldsets:
                   hero: blocks/hero
                   teaser: blocks/teaser
-                  gallery: blocks/gallery
 
   sidebar:
     width: 1/3
