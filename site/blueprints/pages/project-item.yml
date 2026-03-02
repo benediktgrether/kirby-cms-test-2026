@@ -1,0 +1,22 @@
+title: Project Item
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 🚀
+
+status:
+  draft:
+    label: Draft
+    text: The article is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: In Review
+    text: The article is online and can be visited with the direct URL. The team must still give the final go to publish it.
+  listed:
+    label: Published
+    text: The article is online and listed in the blog
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      text:
+        type: textarea
+        size: medium

@@ -1,0 +1,8 @@
+type: pages
+label: Projects
+info: "{{ page.date.toDate('d.m.Y') }}"
+
+# Template is the linked Page
+template: project-item
+empty: No Project yet
+sortBy: date desc
