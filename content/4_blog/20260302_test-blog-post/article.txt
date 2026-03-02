@@ -1,0 +1,28 @@
+Title: test blog post
+
+----
+
+Text:
+
+https://getkirby.com/docs/cookbook/content-structure/create-a-blog
+https://getkirby.com/docs/reference/panel/samples/blog
+
+----
+
+Heroimage: 
+
+----
+
+Date: 2026-03-02 08:30:00
+
+----
+
+Author: 
+
+----
+
+Tags: how to
+
+----
+
+Uuid: wdxswlla206y5wsv

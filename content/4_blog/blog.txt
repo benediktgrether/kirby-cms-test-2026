@@ -1,0 +1,29 @@
+Title: Blog
+
+----
+
+Heading: 
+
+----
+
+Subheading: 
+
+----
+
+Limit: 
+
+----
+
+Dateformat: 
+
+----
+
+Fediverse: 
+
+----
+
+Instagram: 
+
+----
+
+Uuid: 1pfayxn29vkgbits
