@@ -1,0 +1,152 @@
+Title: Build with KirbyCMS
+
+----
+
+Text:
+
+Warum Kirby CMS? Ein modernes CMS ohne Datenbank
+
+In der Welt der Content-Management-Systeme dominieren seit Jahren große
+Systeme wie WordPress, TYPO3 oder Drupal. Doch immer mehr Entwickler und
+Agenturen setzen inzwischen auf eine schlankere Alternative: Kirby CMS.
+
+Kirby verfolgt einen anderen Ansatz als klassische CMS – und genau das
+macht es so interessant.
+
+1.  Kein Datenbank-Zwang
+
+Der größte Unterschied zu vielen anderen CMS: Kirby benötigt keine
+Datenbank.
+
+Alle Inhalte werden in einfachen Textdateien gespeichert. Jede Seite
+besteht aus einem Ordner mit einer Textdatei und optionalen Medien.
+
+Vorteile:
+
+-   Kein Datenbank-Setup
+-   Schnellere Backups
+-   Versionierung über Git möglich
+-   Weniger Serverkomplexität
+
+Das macht Kirby besonders attraktiv für kleinere bis mittelgroße
+Websites, Portfolios oder Unternehmensseiten.
+
+2.  Extrem flexibel für Entwickler
+
+Kirby ist kein starres Baukasten-System. Stattdessen arbeitet es mit:
+
+-   Templates (PHP)
+-   Blueprints (YAML)
+-   Snippets
+-   Layouts und Blocks
+
+Damit lassen sich Websites komplett individuell entwickeln, ohne gegen
+ein starres System kämpfen zu müssen.
+
+Im Gegensatz zu vielen anderen CMS zwingt Kirby Entwickler nicht in eine
+bestimmte Architektur. Man kann es eher als Content Framework
+betrachten.
+
+3.  Saubere Struktur für Inhalte
+
+Kirby organisiert Inhalte in einer klaren Struktur:
+
+content/ blog/ first-post/ first-post.txt image.jpg second-post/
+second-post.txt
+
+Das bedeutet:
+
+-   Inhalte sind direkt im Dateisystem sichtbar
+-   einfache Migration
+-   transparente Struktur
+
+Gerade für Entwickler ist das deutlich angenehmer als verschachtelte
+Datenbankstrukturen.
+
+4.  Sehr schnell
+
+Da Kirby keine Datenbankabfragen benötigt, sind Seiten oft extrem
+schnell geladen.
+
+Zusätzlich bietet Kirby:
+
+-   eingebautes Caching
+-   Bildoptimierung
+-   Thumbnail-Generierung
+-   einfache Performance-Optimierungen
+
+Das macht Kirby ideal für performante Websites und SEO.
+
+5.  Intuitives Backend für Redakteure
+
+Das Backend von Kirby heißt Panel und ist bewusst minimalistisch
+gestaltet.
+
+Redakteure können:
+
+-   Seiten erstellen
+-   Bilder hochladen
+-   Inhalte bearbeiten
+-   Layout-Blöcke verwenden
+
+Und das alles ohne überladenes Interface oder komplizierte
+Einstellungen.
+
+6.  Perfekt für moderne Websites
+
+Kirby eignet sich besonders gut für:
+
+-   Unternehmensseiten
+-   Portfolios
+-   Blogs
+-   Landingpages
+-   Dokumentationen
+-   kleine bis mittlere Webprojekte
+
+Da Kirby auch headless genutzt werden kann, lässt es sich problemlos mit
+modernen Frontends kombinieren.
+
+7.  Keine Plugin-Hölle
+
+Viele CMS leiden unter einer sogenannten Plugin-Hölle – dutzende
+Plugins, die gepflegt werden müssen.
+
+Kirby verfolgt einen anderen Ansatz:
+
+-   viele Funktionen sind bereits eingebaut
+-   Erweiterungen sind leicht selbst zu schreiben
+-   Plugins sind optional
+
+Das reduziert Wartungsaufwand und Sicherheitsrisiken.
+
+Fazit
+
+Kirby CMS ist eine hervorragende Wahl für alle, die ein flexibles,
+schnelles und modernes Content-Management-System suchen.
+
+Es kombiniert die Vorteile eines klassischen CMS mit der Freiheit eines
+Frameworks und verzichtet bewusst auf unnötige Komplexität.
+
+Gerade für Entwickler, Agenturen und individuelle Webprojekte ist Kirby
+deshalb eine sehr attraktive Alternative zu großen Systemen wie
+WordPress oder TYPO3.
+
+----
+
+Heroimage: - file://esjvtbms8psejmy0
+
+----
+
+Date: 2026-03-04 12:25:00
+
+----
+
+Author: - user://mjrWZ6ru
+
+----
+
+Tags: kirbycms, cms
+
+----
+
+Uuid: aihrei288v8umbue

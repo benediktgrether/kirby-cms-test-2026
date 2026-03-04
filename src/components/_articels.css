@@ -1,0 +1,10 @@
+.blog-post {
+  p {
+    @apply mb-4;
+  }
+
+  ul {
+    list-style: disc;
+    @apply pl-4 mb-4;
+  }
+}
