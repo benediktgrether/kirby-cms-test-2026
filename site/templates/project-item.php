@@ -43,6 +43,10 @@
             </div>
         </header>
 
+        <div class="">
+            <h2><?= $page->heading() ?></h2>
+        </div>
+
         <div class="prose prose-lg max-w-none">
             <?= $page->text()->kirbytext() ?>
         </div>
