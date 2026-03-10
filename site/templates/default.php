@@ -1,3 +1,12 @@
+<?php
+
+/**
+ * @var \Kirby\Cms\Page $page
+ * @var \Kirby\Cms\Site $site
+ * @var \Kirby\Cms\App $kirby
+ */
+?>
+
 <?php snippet('header') ?>
 
 <main>
