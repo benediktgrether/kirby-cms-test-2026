@@ -1,0 +1,11 @@
+name: gridItem
+icon: Grid
+label: "Grid Item"
+
+fields:
+  headline:
+    type: text
+    required: true
+
+  subheadline:
+    type: text
