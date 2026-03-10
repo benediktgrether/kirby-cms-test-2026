@@ -1,5 +1,5 @@
 <?php foreach ($block->modules()->toLayouts() as $layout): ?>
-    <div class="container mx-auto flex mt-4 gap-4" id="<?= $layout->id() ?>">
+    <div class="container mx-auto flex flex-col md:flex-row mt-4 gap-4" id="<?= $layout->id() ?>">
         <?php foreach ($layout->columns() as $column): ?>
             <?php
             switch ($column->span()) {
