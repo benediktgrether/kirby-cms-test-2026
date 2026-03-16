@@ -13,6 +13,11 @@ status:
     label: Published
     text: The article is online and listed in the blog
 
+options:
+  changeTemplate:
+    - archive
+    - default
+
 columns:
   main:
     width: 2/3
