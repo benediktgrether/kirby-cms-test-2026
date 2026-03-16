@@ -1,0 +1,11 @@
+title: Immobilie
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      heading:
+        type: text
+      text:
+        type: textarea
+        size: medium

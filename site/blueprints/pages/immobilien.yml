@@ -1,0 +1,25 @@
+title: Immobilien
+icon: 🏘️
+
+# Shows Child Pages
+columns:
+  left:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/immobilie
+        label: Drafts
+        status: draft
+
+      unlisted:
+        extends: sections/immobilie
+        label: In Review
+        status: unlisted
+
+  right:
+    width: 1/2
+    sections:
+      listed:
+        extends: sections/immobilie
+        label: Published
+        status: listed
