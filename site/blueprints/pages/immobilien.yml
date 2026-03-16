@@ -1,18 +1,17 @@
 title: Immobilien
 icon: 🏘️
 
-# Shows Child Pages
 columns:
   left:
     width: 1/2
     sections:
       drafts:
-        extends: sections/immobilie
+        extends: sections/properties
         label: Drafts
         status: draft
 
       unlisted:
-        extends: sections/immobilie
+        extends: sections/properties
         label: In Review
         status: unlisted
 
@@ -20,6 +19,6 @@ columns:
     width: 1/2
     sections:
       listed:
-        extends: sections/immobilie
+        extends: sections/properties
         label: Published
         status: listed

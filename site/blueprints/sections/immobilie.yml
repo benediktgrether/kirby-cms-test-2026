@@ -1,8 +1,0 @@
-type: pages
-label: Immobilien Detailpage
-info: "{{ page.date.toDate('d.m.Y') }}"
-
-# Template
-template: immobilie
-empty: No Immobilien Yes
-sortBy: date desc

@@ -1,0 +1,10 @@
+type: pages
+templates:
+  - house
+  - flat
+create:
+  - house
+  - flat
+image: page
+info: "{{ page.intendedTemplate }}"
+empty: No properties yet
