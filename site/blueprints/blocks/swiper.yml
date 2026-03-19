@@ -1,5 +1,7 @@
 name: Swiper
 icon: image
+preview: fields
+wysiwyg: true
 
 tabs:
   content:
