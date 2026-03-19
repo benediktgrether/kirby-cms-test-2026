@@ -33,6 +33,7 @@ columns:
                   hero: blocks/hero
                   teaser: blocks/teaser
                   grid: blocks/grid
+                  swiper: blocks/swiper
 
   sidebar:
     width: 1/3

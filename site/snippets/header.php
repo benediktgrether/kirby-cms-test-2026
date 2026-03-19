@@ -12,8 +12,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="<?= $site->description() ?>">
-  <?= css('assets/css/styles.css') ?>
-  <script type="module" src="/assets/js/alpine.js"></script>
+  <?php if (file_exists(kirby()->root('index') . '/public/assets/css/app.css')): ?>
+    <?= css('/public/assets/css/app.css') ?>
+  <?php else: ?>
+    <?= css('/assets/css/app.css') ?>
+  <?php endif ?>
   <title>
     <?= $page->title() ?> | <?= $site->title() ?>
   </title>

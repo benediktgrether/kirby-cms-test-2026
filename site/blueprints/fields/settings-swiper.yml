@@ -1,0 +1,27 @@
+label: Swiper Settings
+type: group
+fields:
+  autoplay:
+    label: Autoplay
+    type: toggle
+    default: false
+  loop:
+    label: Loop
+    type: toggle
+    default: false
+  speed:
+    label: Speed
+    type: number
+    default: 3000
+  navigation:
+    label: Navigation
+    type: toggle
+    default: false
+  pagination:
+    label: Pagination
+    type: toggle
+    default: false
+  slidesPerView:
+    label: Slides per view
+    type: number
+    default: 1
